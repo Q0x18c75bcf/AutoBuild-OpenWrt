@@ -1,1 +1,3 @@
 更新 luci-app-ssr-plus: optimize subscribe script and support ssd subscribe 
+
+luci-app-ssr-plus: fix pdnsd
