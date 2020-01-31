@@ -1,3 +1,1 @@
-更新 luci-app-ssr-plus: optimize subscribe script and support ssd subscribe 
-
-luci-app-ssr-plus: fix pdnsd
+include	kernel: bump to 4.14.167, 4.19.98
