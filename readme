@@ -1,1 +1,1 @@
-	kernel: bump 4.9 to 4.9.212 (#2964)
+luci-app-ssr-plus: fix check port status when vps disable ping
