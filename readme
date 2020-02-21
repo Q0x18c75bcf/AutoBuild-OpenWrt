@@ -1,1 +1,1 @@
-luci-app-ssr-plus: fix check port status when vps disable ping
+sync build script for OpenWrt 19.07
