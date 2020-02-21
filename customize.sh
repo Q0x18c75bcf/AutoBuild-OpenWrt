@@ -7,3 +7,5 @@
 #=================================================
 #1. Modify default IP
 sed -i 's/192.168.1.1/192.168.101.22/g' openwrt/package/base-files/files/bin/config_generate
+sed -i 's/luci-app-xlnetacc//g' openwrt/target/linux/x86/Makefile
+sed -i as/luci-app-zerotier//g' oepnwrt/target/linux/x86/Makefile
